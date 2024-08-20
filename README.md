@@ -1,13 +1,12 @@
-<div style="text-align: center; font-size: 24pt">
-    <div>
-        <img src="https://dexterity.s3.us-east-2.amazonaws.com/v153jd/dex_banner.png" alt="Dexterity" width="75%" height="75%">
-    </div>
-    <div>
-        Create insanely detailed Minecraft builds in-game
-    </div>
+<p align="center">
+    <img src="https://dexterity.s3.us-east-2.amazonaws.com/v153jd/dex_banner.png" alt="Dexterity" width="75%" height="75%">
 </p>
 
-## [Download](https://www.spigotmc.org/resources/118489/) | [Wiki](https://github.com/standardProton/dexterity_wiki/wiki) | [Donate](https://paypal.me/c7dev) | [Discord](https://discord.gg/yx9hUByTzq)
+<p align="center">
+    Create insanely detailed Minecraft builds in-game
+</p>
+
+## [Download](https://www.spigotmc.org/resources/118489/) | [Wiki](https://github.com/standardProton/dexterity_wiki/wiki) | [Donate](https://paypal.me/c7dev) | [Java Docs](https://standardproton.github.io/dexterity_wiki/me/c7dev/dexterity/api/DexterityAPI.html) | [Discord](https://discord.gg/yx9hUByTzq)
 
 ![Cafe Scene](https://dexterity.s3.us-east-2.amazonaws.com/v153jd/restaurant2.png)
 
