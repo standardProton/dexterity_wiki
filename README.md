@@ -42,7 +42,7 @@ Rotate a selection along any axis<br><br>
 
 <hr>
 
-Clone a selection, run commands when clicked, move selection with precision, set the glow color, and more!
+Clone a selection, import schematics, run commands on click, change the glow color, consolidate entity count, and more!
 
 <hr>
 
